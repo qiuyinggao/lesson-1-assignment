@@ -1,9 +1,5 @@
 verse_1.txt
-Only miss the sun when it starts to snow
-Only know you love her when you let her go
-Only know you've been high when you're feeling low
-Only hate the road when you're missing home
-Only know you love her when you let her go
+chorus_1.txt
 verse_2.txt
 Only miss the sun when it starts to snow
 Only know you love her when you let her go
